@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/ZDPHeqi91RUKSqk1mv2A4IkHcRauH6pGc3o+4GKxEcYYi38vlNT4INL64jykQQi41KHUn/sL4hc0/qBAbxvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\csharp-prep\\Prep3\\Prep3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
