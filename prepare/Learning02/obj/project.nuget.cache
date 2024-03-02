@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h02RslkgvZb046H93aEWOBqINLipxgTHES50mA6WreTbXiZLhOFrSnNPEgvq+jXKv1XDUySFkNMXCBjOB9OtBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prepare\\Learning02\\Learning02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
