@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\bin\Debug\net7.0\Learning02.exe
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\bin\Debug\net7.0\Learning02.deps.json
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\bin\Debug\net7.0\Learning02.runtimeconfig.json
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\bin\Debug\net7.0\Learning02.dll
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\bin\Debug\net7.0\Learning02.pdb
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\obj\Debug\net7.0\Learning02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\obj\Debug\net7.0\Learning02.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\obj\Debug\net7.0\Learning02.AssemblyInfo.cs
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\obj\Debug\net7.0\Learning02.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\obj\Debug\net7.0\Learning02.dll
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\obj\Debug\net7.0\refint\Learning02.dll
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\obj\Debug\net7.0\Learning02.pdb
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\obj\Debug\net7.0\Learning02.genruntimeconfig.cache
+C:\Users\Victor\Desktop\viccc\prepare\Learning02\obj\Debug\net7.0\ref\Learning02.dll
