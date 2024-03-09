@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EXS0jZTOR9HgJFunleDSmqbgv9tCsv8dxTmzBTGsFvJzhYlfcBOMQ5Pb11kpTGQb29d5jisoghrikTb6Hg5QgQ==",
+  "dgSpecHash": "4CItjiRnr4Wlz35o5bfDTsvi35ieaacaWAv5sbR2JOfBDeDSp29yTb0sisuPP/Hz/ss6NB52+zyvNZwaw8bACg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop02\\Develop02.csproj",
+  "projectFilePath": "C:\\Users\\Victor\\Documents\\cse210-hw-main\\prove\\Develop02\\Develop02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
     "C:\\Users\\Victor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",

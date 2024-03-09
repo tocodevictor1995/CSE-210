@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop02\\Develop02.csproj": {}
+    "C:\\Users\\Victor\\Documents\\cse210-hw-main\\prove\\Develop02\\Develop02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop02\\Develop02.csproj": {
+    "C:\\Users\\Victor\\Documents\\cse210-hw-main\\prove\\Develop02\\Develop02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop02\\Develop02.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Documents\\cse210-hw-main\\prove\\Develop02\\Develop02.csproj",
         "projectName": "Develop02",
-        "projectPath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop02\\Develop02.csproj",
+        "projectPath": "C:\\Users\\Victor\\Documents\\cse210-hw-main\\prove\\Develop02\\Develop02.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop02\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Documents\\cse210-hw-main\\prove\\Develop02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config"
