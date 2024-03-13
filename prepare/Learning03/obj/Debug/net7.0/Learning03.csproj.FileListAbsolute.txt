@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\bin\Debug\net7.0\Learning03.exe
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\bin\Debug\net7.0\Learning03.deps.json
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\bin\Debug\net7.0\Learning03.runtimeconfig.json
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\bin\Debug\net7.0\Learning03.dll
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\bin\Debug\net7.0\Learning03.pdb
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\obj\Debug\net7.0\Learning03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\obj\Debug\net7.0\Learning03.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\obj\Debug\net7.0\Learning03.AssemblyInfo.cs
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\obj\Debug\net7.0\Learning03.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\obj\Debug\net7.0\Learning03.dll
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\obj\Debug\net7.0\refint\Learning03.dll
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\obj\Debug\net7.0\Learning03.pdb
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\obj\Debug\net7.0\Learning03.genruntimeconfig.cache
+C:\Users\Victor\Desktop\123\cse210-projects-main\prepare\Learning03\obj\Debug\net7.0\ref\Learning03.dll
