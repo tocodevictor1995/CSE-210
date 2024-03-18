@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prepare\\Learning04\\Learning04.csproj": {}
+    "C:\\Users\\Victor\\Desktop\\ffffinal\\16161616\\cse210-new-project-main\\prepare\\Learning04\\Learning04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prepare\\Learning04\\Learning04.csproj": {
+    "C:\\Users\\Victor\\Desktop\\ffffinal\\16161616\\cse210-new-project-main\\prepare\\Learning04\\Learning04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prepare\\Learning04\\Learning04.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\ffffinal\\16161616\\cse210-new-project-main\\prepare\\Learning04\\Learning04.csproj",
         "projectName": "Learning04",
-        "projectPath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prepare\\Learning04\\Learning04.csproj",
+        "projectPath": "C:\\Users\\Victor\\Desktop\\ffffinal\\16161616\\cse210-new-project-main\\prepare\\Learning04\\Learning04.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prepare\\Learning04\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Desktop\\ffffinal\\16161616\\cse210-new-project-main\\prepare\\Learning04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config"
