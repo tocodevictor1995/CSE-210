@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop04\\Develop04.csproj": {}
+    "C:\\Users\\Victor\\Desktop\\ai\\prove\\Develop04\\Develop04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop04\\Develop04.csproj": {
+    "C:\\Users\\Victor\\Desktop\\ai\\prove\\Develop04\\Develop04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop04\\Develop04.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\ai\\prove\\Develop04\\Develop04.csproj",
         "projectName": "Develop04",
-        "projectPath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop04\\Develop04.csproj",
+        "projectPath": "C:\\Users\\Victor\\Desktop\\ai\\prove\\Develop04\\Develop04.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop04\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Desktop\\ai\\prove\\Develop04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,19 +56,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

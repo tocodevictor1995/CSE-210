@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5dN1O3500+0DmLfRaSfxQ9izgIurLIuUSTuG+7QF3rowbtGSJ10JlYlmFkLg9HsAjHmJOJtGvxVLE1Xgqhw+RA==",
+  "dgSpecHash": "K3z6Tk+pPqkL0xP+D2nz1YT4d23/eRdSsqLYsu5Cmj6dOIm9Jg+oDxwocTkHCsh6/4mh9fuO6hDwQBPMNvOvdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Victor\\Desktop\\testando\\cse210-projects-main\\prove\\Develop04\\Develop04.csproj",
+  "projectFilePath": "C:\\Users\\Victor\\Desktop\\ai\\prove\\Develop04\\Develop04.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }
