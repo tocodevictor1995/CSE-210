@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\bin\Debug\net7.0\Learning05.exe
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\bin\Debug\net7.0\Learning05.deps.json
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\bin\Debug\net7.0\Learning05.runtimeconfig.json
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\bin\Debug\net7.0\Learning05.dll
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\bin\Debug\net7.0\Learning05.pdb
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\obj\Debug\net7.0\Learning05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\obj\Debug\net7.0\Learning05.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\obj\Debug\net7.0\Learning05.AssemblyInfo.cs
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\obj\Debug\net7.0\Learning05.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\obj\Debug\net7.0\Learning05.dll
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\obj\Debug\net7.0\refint\Learning05.dll
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\obj\Debug\net7.0\Learning05.pdb
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\obj\Debug\net7.0\Learning05.genruntimeconfig.cache
+C:\Users\Victor\Desktop\ffffinal\16161616\cse210-new-project-main\prepare\Learning05\obj\Debug\net7.0\ref\Learning05.dll
