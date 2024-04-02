@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+u7qVh9M64cAuvH6PzJCoPGNQp/3pgwvrJqgg0t0PXg+vc16Ih4EYvj/fX3HuCJDtR5/1pdhz0KdpCMHGe8qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor\\Desktop\\ai\\prove\\Develop05\\Develop05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
