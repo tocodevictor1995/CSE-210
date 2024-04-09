@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4BEQILfFnI4pSyW26F3Khs7Rrm6Itp7+hjNZoy1hPIK+tQgV4niGUEyyQa1c4JPkdMDX2TevBNkix+8Ay1QiBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victor\\Downloads\\cse210-main (2)\\cse210-main\\final\\Foundation3\\Foundation3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Victor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
